@@ -4,7 +4,7 @@ A criação de um sistema de atendimento online. No qual seu objetivo é informa
 Quando o atendimento se encerrar, terá que responder a um questionário informando as notas de tempo de espera / atedimento. 
 Por fim, a geração de um relatório sobre os dados do cliente como o seu nome, horário de entrada do atendimento, horário de saída do atendimento, tempo total aguardado e avalições sobre tal.
 
-:books: Link do [Escopo do Projeto](https://whimsical.com/q2-duvidas-em-fila-paula-cristina-martins-5hkPuiQWWjb44LRPwuLRCg) 
+:books: Link do [Escopo do Projeto](https://whimsical.com/q2-atendimento-em-fila-paula-cristina-martins-5hkPuiQWWjb44LRPwuLRCg) 
 
 > :bust_in_silhouette: Aluna: Paula Cristina Martins
 
